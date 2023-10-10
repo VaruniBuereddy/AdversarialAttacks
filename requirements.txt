@@ -1,8 +1,0 @@
-# torch>=1.4.0  # It forces to update torch to LTS version.
-torch 
-torchvision
-scipy>=0.14.0
-tqdm>=4.56.1 
-requests>=2.25.1
-pandas>=1.2.4
-numpy>=1.19.4
